@@ -1,21 +1,4 @@
-True
-is_hungry = False
-print(type(is_cool))
-print(is_cool)
-print(is_hungry)
-print(not is_hungry)
-print(not is_cool)
-print(is_cool and is_hungry)
-print(is_cool or is_hungry)
-print(is_cool and not is_hungry)
-print(is_cool or not is_hungry)
-print(is_hungry or not is_cool)
-print(is_hungry and not is_cool)
-print(is_hungry or not is_hungry)
-print(is_hungry and not is_hungry)
-print(is_cool or not is_cool)
-print(is_cool and not is_cool)
-print(is_cool and is_cool)
-print(is_hungry or is_hungry)
-print(is_cool or is_hungry)
-print(is_cool and is_hungry)
+
+st = {1, 2, 3, 4, 5} # set - unordered collection of unique elements
+print(st)
+print(type(st))  #? Output: <class 'set'>
