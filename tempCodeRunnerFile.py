@@ -1,2 +1,2 @@
-ge)
-# print(type(age))
+in studentInfo2.items():
+    print(item)
